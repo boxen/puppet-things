@@ -6,6 +6,6 @@
 class things {
   package { 'Things':
     provider => 'compressed_app',
-    source   => 'http://culturedcode.cachefly.net/things/Things_2.2.1.zip',
+    source   => 'http://culturedcode.cachefly.net/things/Things_2.5.zip',
   }
 }
