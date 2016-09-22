@@ -1,21 +1,7 @@
 # Things 2 Puppet Module for Boxen
 
-[![Build Status](https://travis-ci.org/boxen/puppet-things.png?branch=master)](https://travis-ci.org/boxen/puppet-things)
+Deprecated in favour of [brewcask][1] and [Boxen's in built support for
+homebrew/brewcask][2].
 
-Install [Things](http://culturedcode.com/things/), a task manager app for Mac OS X.
-
-## Usage
-
-```puppet
-include things
-```
-
-## Required Puppet Modules
-
-* boxen
-
-## Developing
-
-Write code.
-
-Run `script/cibuild`.
+[1]: https://caskroom.github.io/
+[2]: https://git.io/v6NlB
